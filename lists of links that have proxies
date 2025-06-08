@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/dpangestuw/Free-Proxy/refs/heads/main/http_proxies.txt
+https://github.com/TheSpeedX/PROXY-List/raw/master/http.txt
+https://raw.githubusercontent.com/clarketm/proxy-list/refs/heads/master/proxy-list-raw.txt
+https://raw.githubusercontent.com/vakhov/fresh-proxy-list/refs/heads/master/http.txt
+
+all you do now is add those links into the proxy checker file and then run the file and it will do its job, check validproxies for the valid proxies it will add when done checking.
